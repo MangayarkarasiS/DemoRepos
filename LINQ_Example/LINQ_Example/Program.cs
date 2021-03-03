@@ -11,7 +11,7 @@ namespace linqprog
 {
     class stud
     {
-        //change in file
+        //change has to be checkedout
         public  int studid;
         public string studnm;
         public  string email;
