@@ -8,6 +8,7 @@ namespace LINQ_Example
 {
     public class Employee
     {
+        // columns
         public int ID { get; set; }
         public string Name { get; set; }
         public string Gender { get; set; }
